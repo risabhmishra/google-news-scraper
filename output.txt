@@ -1,0 +1,903 @@
+(venv) risabhmishra@Risabhs-MacBook-Air main % python google_news_scraper.py --query "ceinsys tech ltd" --time_delta "15d"
+Processing News:   0%|                                                                                                                                | 0/6 [00:00<?, ?item/s]2024-12-15 16:24:25,145 - INFO - Decoded URL: https://www.whatech.com/og/markets-research/aerospace-markets/918147-satellite-data-services-market-top-segments-market-growth-and-production-analysis-2024.html
+{'link': 'https://www.whatech.com/og/markets-research/aerospace-markets/918147-satellite-data-services-market-top-segments-market-growth-and-production-analysis-2024.html',
+ 'published': 'Fri, 13 Dec 2024 20:53:50 GMT',
+ 'summary': 'Satellite Data Services Market Top Segments, Market Growth And '
+            'Production Analysis 2024',
+ 'title': 'Satellite Data Services Market Top Segments, Market Growth And '
+          'Production Analysis 2024 - WhaTech'}
+2024-12-15 16:24:25,146 - INFO - Processing URL: https://www.whatech.com/og/markets-research/aerospace-markets/918147-satellite-data-services-market-top-segments-market-growth-and-production-analysis-2024.html
+2024-12-15 16:24:26,744 - INFO - Successfully extracted data from: https://www.whatech.com/og/markets-research/aerospace-markets/918147-satellite-data-services-market-top-segments-market-growth-and-production-analysis-2024.html
+{'authors': ['Oliver Guridham'],
+ 'headline': 'Satellite Data Services Market Top Segments, Market Growth And '
+             'Production Analysis 2024',
+ 'keywords': ['services',
+              'segments',
+              'global',
+              'size',
+              'production',
+              'geospatial',
+              'research',
+              'satellite',
+              '2024',
+              'growth',
+              'analysis',
+              'market',
+              'report',
+              'data'],
+ 'main_text': 'The satellite data services market research report from The '
+              'Business Research Company offers global market size, growth '
+              'rate, regional shares, competitor analysis, detailed segments, '
+              'trends, and opportunities.\n'
+              '\n'
+              "The Business Research Company a report, titled, 'Satellite Data "
+              'Services Global Market Report 2024 – By Type (Administrative, '
+              'Commercial, Scientific), By Service (Data Analytics, Image '
+              'Data, Other Services), By Application (Energy and Power, '
+              'Defense and Intelligence, Engineering and Infrastructure, '
+              'Transportation and Logistics, Agriculture, Other Applications) '
+              "– Market Size, Trends, And Global Forecast 2024-2033'. "
+              'According to the report, The satellite data services market '
+              'size is expected to see rapid growth in the next few years.\n'
+              '\n'
+              'It will grow to $22.08 billion in 2028 at a compound annual '
+              'growth rate (CAGR) of 19.6%.\n'
+              '\n'
+              'Request a Free Sample Copy of This Report @\n'
+              '\n'
+              'www.thebusinessresearchcompany.com/sample.…p;type=smp\n'
+              '\n'
+              'Report Coverage & Details:\n'
+              '\n'
+              '• Forecast Period: 2024-2033\n'
+              '\n'
+              '• Base Year: 2023\n'
+              '\n'
+              '• Market Size In 2024: $10.8 billion\n'
+              '\n'
+              '• Revenue Forecast In 2033: $22.08 billion\n'
+              '\n'
+              '• CAGR: 19.6%\n'
+              '\n'
+              'Global Satellite Data Services Market: Segmentation\n'
+              '\n'
+              'The satellite data services market covered in this report is '
+              'segmented –\n'
+              '\n'
+              '1) By Type: Administrative, Commercial, Scientific\n'
+              '\n'
+              '2) By Service: Data Analytics, Image Data, Other Services\n'
+              '\n'
+              '3) By Application: Energy and Power, Defense and Intelligence, '
+              'Engineering and Infrastructure, Transportation and Logistics, '
+              'Agriculture, Other Applications\n'
+              '\n'
+              'Browse Full Report With TOC & List Of Figure\n'
+              '\n'
+              'www.thebusinessresearchcompany.com/report/…ket-report\n'
+              '\n'
+              'Satellite Data Services Market Report: Growth Drivers\n'
+              '\n'
+              'The growth momentum for the satellite data services market is '
+              'being propelled by the escalating demand for satellite data '
+              "across different sectors. Satellite data's primary purpose is "
+              'for missile guidance and other military operations.\n'
+              '\n'
+              'Additionally, satellite data services furnish details about '
+              "shifts on the earth's surface and climate changes. An example "
+              'of this is when the United Launch Alliance (ULA), an American '
+              'rocket manufacturing company, propelled the fifth Space-Based '
+              'Infrared System satellite for the U.S.\n'
+              '\n'
+              'Space Force in May 2021. This $1 billion satellite, constructed '
+              'by Lockheed Martin, utilizes its onboard infrared sensors to '
+              'identify and monitor plumes emitted by global missile launches. '
+              'This capability enables the US to be combat-ready for potential '
+              'threats.\n'
+              '\n'
+              'Therefore, the growing imperative for satellite data in several '
+              'industries is steering the expansion of the satellite data '
+              'services market.\n'
+              '\n'
+              'Key Developments:\n'
+              '\n'
+              'Planet Acquired Vandersat\n'
+              '\n'
+              'In December 2021, Planet, a US-based provider of satellite '
+              'imagery and geospatial solutions, acquired VanderSat for a deal '
+              'amount of $28 million. This acquisition is expected to bring '
+              'Planet a world-class remote-sensing data science team, top-tier '
+              'accounts in the agriculture and insurance verticals, accelerate '
+              'the software strategy, and expand their footprint in Europe.\n'
+              '\n'
+              'VanderSat is a Netherlands-based provider of satellite-observed '
+              'data, products, and services with a special emphasis on water '
+              'and crops.\n'
+              '\n'
+              'Top Market Leader Included:\n'
+              '\n'
+              'Airbus S. A. S., East View Geospatial Inc., ImageSat '
+              'International, L3Harris Technologies Inc., Maxar Technologies, '
+              'Ceinsys Tech Ltd., Earth-i Ltd., ICEYE, Planet Labs Inc., '
+              'Satellite Imaging Corporation, Space Exploration Technologies '
+              'Corp., SpecTIR LLC, Trimble Inc., Ursa Space Systems Inc., '
+              'Birdi Ltd., BlackSky Technology, Capella Space, Descartes Labs, '
+              'DigitalGlobe, Geospatial Intelligence Pty Ltd., Gisat S. R. O., '
+              'Harris Geospatial Solutions, HawkEye 360, OmniEarth Inc., '
+              'Orbital Insight, SATPALDA Geospatial Services, SatSure AG, '
+              'Spire Global Inc., Terrafuse, EUMETSAT\n'
+              '\n'
+              'Satellite Data Services Industry: Regional Landscape\n'
+              '\n'
+              'North America was the largest region in the satellite data '
+              'services market in 2023. The regions covered in the satellite '
+              'data services market report are Asia-Pacific, Western Europe, '
+              'Eastern Europe, North America, South America, Middle East, '
+              'Africa\n'
+              '\n'
+              'The countries covered in the satellite data services market '
+              'report are Australia, Brazil, China, France, Germany, India, '
+              'Indonesia, Japan, Russia, South Korea, UK, USA, Italy, Canada, '
+              'Spain.\n'
+              '\n'
+              'Access This Exclusive Research Report\n'
+              '\n'
+              'www.thebusinessresearchcompany.com/purchas…px?id=6858\n'
+              '\n'
+              'What Does The Global Satellite Data Services Market Report '
+              'Include?\n'
+              '\n'
+              '1.Introduction\n'
+              '\n'
+              '• Overview of the Satellite Data Services Market\n'
+              '\n'
+              '• Comprehensive Analysis of Satellite Data Services Market\n'
+              '\n'
+              '2. Satellite Data Services Market Drivers and Restraints\n'
+              '\n'
+              '• Drivers and Restraints For Historic And Forecast Period\n'
+              '\n'
+              '3. Satellite Data Services Market Segmentation\n'
+              '\n'
+              '• By Drug Class\n'
+              '\n'
+              '• By Indication\n'
+              '\n'
+              '• By Distribution Channel\n'
+              '\n'
+              '4. Competitive Landscape And Company Profiles In The Satellite '
+              'Data Services Market\n'
+              '\n'
+              '• Overview\n'
+              '\n'
+              '• Products and Services\n'
+              '\n'
+              '• Strategy\n'
+              '\n'
+              '5. Satellite Data Services Market Regional And Country '
+              'Analysis\n'
+              '\n'
+              '• By Region\n'
+              '\n'
+              '• By Country\n'
+              '\n'
+              '6. Market Trends And Opportunities In Satellite Data Services '
+              'Market\n'
+              '\n'
+              '• Technological Advancements\n'
+              '\n'
+              '• Emerging Trends\n'
+              '\n'
+              '7. Satellite Data Services Market Future Outlook and Potential '
+              'Analysis\n'
+              '\n'
+              '• Growth Strategies\n'
+              '\n'
+              '• New Opportunities\n'
+              '\n'
+              'The Business Research Company\n'
+              '\n'
+              'Americas: +1 3156230768',
+ 'named_entities': {'$1 billion',
+                    '$10.8 billion',
+                    '$22.08 billion',
+                    '$28 million',
+                    '1',
+                    '19.6%',
+                    '2',
+                    '2023',
+                    '2024',
+                    '2024-2033',
+                    "2024-2033'",
+                    '2028',
+                    '2033',
+                    '3',
+                    '5',
+                    '6',
+                    '7',
+                    'Access This Exclusive Research Report',
+                    'Africa',
+                    'American',
+                    'Asia-Pacific',
+                    'Australia',
+                    'Birdi Ltd.',
+                    'BlackSky Technology',
+                    'Brazil',
+                    'Canada',
+                    'Capella Space',
+                    'Ceinsys Tech Ltd.',
+                    'China',
+                    'Competitive Landscape And Company Profiles In The '
+                    'Satellite Data Services Market\n'
+                    '\n'
+                    '• Overview\n'
+                    '\n'
+                    '• Products and Services\n'
+                    '\n'
+                    '• Strategy',
+                    'Data Analytics',
+                    'December 2021, Planet',
+                    'Descartes Labs',
+                    'DigitalGlobe',
+                    'EUMETSAT\n'
+                    '\n'
+                    'Satellite Data Services Industry: Regional Landscape\n'
+                    '\n'
+                    'North America',
+                    'Earth-i Ltd.',
+                    'East View Geospatial Inc.',
+                    'Eastern Europe',
+                    'Europe',
+                    'France',
+                    'Geospatial Intelligence Pty Ltd.',
+                    'Germany',
+                    'Gisat S. R. O.',
+                    'Global Satellite Data Services Market: Segmentation',
+                    'HawkEye 360',
+                    'Image Data',
+                    'ImageSat International',
+                    'India',
+                    'Indonesia',
+                    'Italy',
+                    'Japan',
+                    'L3Harris Technologies Inc.',
+                    'LLC',
+                    'Lockheed Martin',
+                    'Maxar Technologies',
+                    'May 2021',
+                    'Middle East',
+                    'Netherlands',
+                    'North America',
+                    'OmniEarth Inc.',
+                    'Orbital Insight',
+                    'Planet Labs Inc.',
+                    'Potential Analysis\n'
+                    '\n'
+                    '• Growth Strategies\n'
+                    '\n'
+                    '• New Opportunities',
+                    'Restraints For Historic And Forecast Period\n\n',
+                    'Russia',
+                    'S. A. S.',
+                    'SatSure AG',
+                    'Satellite Data Services Global Market Report',
+                    'Satellite Data Services Market\n'
+                    '\n'
+                    '• Technological Advancements\n'
+                    '\n'
+                    '• Emerging Trends\n'
+                    '\n',
+                    'Satellite Data Services Market Drivers',
+                    'Satellite Data Services Market Future Outlook',
+                    'Satellite Data Services Market Regional And Country '
+                    'Analysis\n'
+                    '\n'
+                    '• By Region',
+                    'Satellite Data Services Market Report',
+                    'Satellite Data Services Market Segmentation\n\n• By Drug',
+                    'Satellite Imaging Corporation',
+                    'Scientific',
+                    'South America',
+                    'South Korea',
+                    'Space Exploration Technologies Corp.',
+                    'Space-Based',
+                    'Spain',
+                    'Spire Global Inc.',
+                    'Terrafuse',
+                    'The Business Research Company',
+                    'The Global Satellite Data Services Market Report Include',
+                    'Trends',
+                    'Trimble Inc.',
+                    'UK',
+                    'ULA',
+                    'US',
+                    'USA',
+                    'Ursa Space Systems Inc.',
+                    'VanderSat',
+                    'Western Europe',
+                    'annual',
+                    'earth',
+                    'fifth',
+                    'the Satellite Data Services Market\n'
+                    '\n'
+                    '• Comprehensive Analysis of Satellite Data Services '
+                    'Market',
+                    'the U.S.\n\nSpace Force',
+                    'the United Launch Alliance',
+                    'the next few years'},
+ 'publication_date': datetime.datetime(2024, 12, 13, 23, 37, 9, tzinfo=tzoffset(None, 39600)),
+ 'sentiment': {'main_text_sentiment': {'polarity': 0.018423243423243422,
+                                       'subjectivity': 0.30066600066600063},
+               'summary_sentiment': {'polarity': 0.08333333333333333,
+                                     'subjectivity': 0.125}},
+ 'summary': 'The satellite data services market research report from The '
+            'Business Research Company offers global market size, growth rate, '
+            'regional shares, competitor analysis, detailed segments, trends, '
+            'and opportunities. The Business Research Company a report, '
+            "titled, 'Satellite Data Services Global Market Report 2024 – By "
+            'Type (Administrative, Commercial, Scientific), By Service (Data '
+            'Analytics, Image Data, Other Services), By Application (Energy '
+            'and Power, Defense and Intelligence, Engineering and '
+            'Infrastructure, Transportation and Logistics, Agriculture, Other '
+            'Applications) – Market Size, Trends, And Global Forecast '
+            "2024-2033'. • Overview of the Satellite Data Services Market",
+ 'top_image': 'https://whatech.b-cdn.net/templates/newsberg/images/favicon.ico'}
+Processing News:  17%|████████████████████                                                                                                    | 1/6 [00:09<00:45,  9.15s/item]2024-12-15 16:24:33,911 - INFO - Decoded URL: https://www.marketsmojo.com/news/stocks-in-action/ceinsys-techs-stock-price-hits-all-time-high-outperforms-sector-and-sensex-310743
+{'link': 'https://www.marketsmojo.com/news/stocks-in-action/ceinsys-techs-stock-price-hits-all-time-high-outperforms-sector-and-sensex-310743',
+ 'published': 'Mon, 09 Dec 2024 04:19:42 GMT',
+ 'summary': "Ceinsys Tech's Stock Price Hits All-Time High, Outperforms Sector "
+            'and Sensex',
+ 'title': "Ceinsys Tech's Stock Price Hits All-Time High, Outperforms Sector "
+          'and Sensex - MarketsMojo'}
+2024-12-15 16:24:33,912 - INFO - Processing URL: https://www.marketsmojo.com/news/stocks-in-action/ceinsys-techs-stock-price-hits-all-time-high-outperforms-sector-and-sensex-310743
+2024-12-15 16:24:34,390 - INFO - Successfully extracted data from: https://www.marketsmojo.com/news/stocks-in-action/ceinsys-techs-stock-price-hits-all-time-high-outperforms-sector-and-sensex-310743
+{'authors': [],
+ 'headline': "Ceinsys Tech's Stock Price Hits All-Time High, Outperforms "
+             'Sector and Sensex',
+ 'keywords': ['sensex',
+              'techs',
+              'stock',
+              'strong',
+              'software',
+              'hits',
+              'ceinsys',
+              'outperforms',
+              'making',
+              'rs1928',
+              'price',
+              'high',
+              'tech',
+              'alltime',
+              'performance',
+              'sector'],
+ 'main_text': "Ceinsys Tech's Stock Price Hits All-Time High, Outperforms "
+              'Sector and Sensex\n'
+              '\n'
+              'Ceinsys Tech , a smallcap IT software company, has been making '
+              'headlines in the stock market with its remarkable performance. '
+              'On December 9th, 2024, the stock hit an all-time high of '
+              'Rs.1928, catching the attention of investors and analysts. It '
+              'has consistently outperformed the sector and has shown a strong '
+              'uptrend, making it a promising investment opportunity in the IT '
+              'industry.\n'
+              '\n'
+              '\n'
+              '\n'
+              '\n'
+              '\n'
+              '\n'
+              '\n'
+              'Ceinsys Tech, a smallcap IT software company, has been making '
+              'waves in the stock market with its recent performance. On '
+              "December 9th, 2024, the company's stock price reached an "
+              'all-time high, hitting Rs.1928. This has caught the attention '
+              'of investors and analysts alike, with MarketsMOJO giving a '
+              "'Buy' call for the stock.\n"
+              '\n'
+              '\n'
+              '\n'
+              'The stock has been on a winning streak for the past 7 days, '
+              'outperforming the sector by 4.01%. In this period, it has seen '
+              'a remarkable 30.32% increase in returns. Today, the stock '
+              'opened with a gap up of 4.01% and touched an intraday high of '
+              'Rs.1928. It has been trading at this price since then, showing '
+              'no range.\n'
+              '\n'
+              '\n'
+              '\n'
+              "Ceinsys Tech's performance is not just limited to the short "
+              'term. It has been consistently trading above its 5-day, 20-day, '
+              '50-day, 100-day, and 200-day moving averages, indicating a '
+              'strong uptrend in the stock.\n'
+              '\n'
+              '\n'
+              '\n'
+              'In the past year, Ceinsys Tech has outperformed the Sensex by a '
+              'whopping 454.03%, while the Sensex has only seen a 16.96% '
+              "increase. This showcases the company's strong growth potential "
+              'and its ability to deliver high returns to its investors.\n'
+              '\n'
+              '\n'
+              '\n'
+              'With its recent surge in stock price and impressive '
+              'performance, Ceinsys Tech is definitely a company to watch out '
+              'for in the IT software industry. Its consistent growth and '
+              'positive outlook make it a promising investment opportunity for '
+              'those looking to diversify their portfolio.',
+ 'named_entities': {'100-day',
+                    '16.96%',
+                    '20-day',
+                    '200-day',
+                    '30.32%',
+                    '4.01%',
+                    '454.03%',
+                    '5-day',
+                    '50-day',
+                    'Buy',
+                    'Ceinsys Tech',
+                    "Ceinsys Tech's",
+                    'December 9th, 2024',
+                    'Rs.1928',
+                    'Sensex',
+                    'Sensex\n\nCeinsys Tech',
+                    'Today',
+                    'the past 7 days',
+                    'the past year'},
+ 'publication_date': 'N/A',
+ 'sentiment': {'main_text_sentiment': {'polarity': 0.22433945364979851,
+                                       'subjectivity': 0.5306314375279891},
+               'summary_sentiment': {'polarity': 0.31444444444444447,
+                                     'subjectivity': 0.5855555555555555}},
+ 'summary': 'On December 9th, 2024, the stock hit an all-time high of Rs.1928, '
+            'catching the attention of investors and analysts. It has '
+            'consistently outperformed the sector and has shown a strong '
+            'uptrend, making it a promising investment opportunity in the IT '
+            'industry. It has been consistently trading above its 5-day, '
+            '20-day, 50-day, 100-day, and 200-day moving averages, indicating '
+            'a strong uptrend in the stock.',
+ 'top_image': 'https://i.marketsmojo.com/newsimg/2024/12/CeinsysTech_priceRelatedfactors_233386.png'}
+Processing News:  33%|████████████████████████████████████████                                                                                | 2/6 [00:16<00:33,  8.26s/item]2024-12-15 16:24:41,933 - INFO - Decoded URL: https://www.marketsmojo.com/news/stocks-in-action/ceinsys-techs-stock-hits-all-time-high-outperforms-sector-and-sensex-4-309747
+{'link': 'https://www.marketsmojo.com/news/stocks-in-action/ceinsys-techs-stock-hits-all-time-high-outperforms-sector-and-sensex-4-309747',
+ 'published': 'Thu, 05 Dec 2024 04:31:37 GMT',
+ 'summary': "Ceinsys Tech's Stock Hits All-Time High, Outperforms Sector and "
+            'Sensex',
+ 'title': "Ceinsys Tech's Stock Hits All-Time High, Outperforms Sector and "
+          'Sensex - MarketsMojo'}
+2024-12-15 16:24:41,937 - INFO - Processing URL: https://www.marketsmojo.com/news/stocks-in-action/ceinsys-techs-stock-hits-all-time-high-outperforms-sector-and-sensex-4-309747
+2024-12-15 16:24:42,443 - INFO - Successfully extracted data from: https://www.marketsmojo.com/news/stocks-in-action/ceinsys-techs-stock-hits-all-time-high-outperforms-sector-and-sensex-4-309747
+{'authors': [],
+ 'headline': "Ceinsys Tech's Stock Hits All-Time High, Outperforms Sector and "
+             'Sensex',
+ 'keywords': ['sensex',
+              'techs',
+              'stock',
+              'strong',
+              'software',
+              'remarkable',
+              'recent',
+              'hits',
+              'ceinsys',
+              'outperforms',
+              'high',
+              'tech',
+              'alltime',
+              'performance',
+              'sector'],
+ 'main_text': "Ceinsys Tech's Stock Hits All-Time High, Outperforms Sector and "
+              'Sensex\n'
+              '\n'
+              'Ceinsys Tech, a smallcap IT software company, has been gaining '
+              'attention in the stock market with its recent performance. On '
+              'December 5th, 2024, the stock hit an all-time high of Rs.1796, '
+              'outperforming the sector by 3.23% and consistently trading '
+              'above its moving averages. With a remarkable 391.34% '
+              'performance in the last year, Ceinsys Tech shows strong growth '
+              'potential in the IT industry.\n'
+              '\n'
+              '\n'
+              '\n'
+              '\n'
+              '\n'
+              '\n'
+              '\n'
+              '\n'
+              '\n'
+              'Ceinsys Tech, a smallcap IT software company, has been making '
+              'waves in the stock market with its recent performance. On '
+              "December 5th, 2024, the company's stock price reached an "
+              'all-time high, hitting Rs.1796. This has caught the attention '
+              'of investors and market experts, with MarketsMOJO giving a '
+              "'Buy' call for the stock.\n"
+              '\n'
+              '\n'
+              '\n'
+              'The stock has been on a winning streak, outperforming the '
+              'sector by 3.23% and gaining for the last 5 consecutive days. In '
+              'this period, it has seen a remarkable 21.4% increase in '
+              'returns. Today, the stock opened with a gap up of 3.23% and '
+              'touched an intraday high of Rs.1796.\n'
+              '\n'
+              '\n'
+              '\n'
+              "What's even more impressive is that the stock has been "
+              'consistently trading above its moving averages, including the '
+              '5-day, 20-day, 50-day, 100-day, and 200-day moving averages. '
+              'This indicates a strong upward trend for Ceinsys Tech.\n'
+              '\n'
+              '\n'
+              '\n'
+              'In comparison to the Sensex, Ceinsys Tech has shown a '
+              'remarkable 391.34% performance in the last year, while the '
+              'Sensex has only seen a 17.08% increase. This further highlights '
+              "the company's strong growth potential and its ability to "
+              'outperform the market.\n'
+              '\n'
+              '\n'
+              '\n'
+              'With its recent surge in stock price and positive outlook, '
+              'Ceinsys Tech is definitely a company to watch out for in the IT '
+              'software industry. Investors can consider adding this stock to '
+              'their portfolio for potential long-term gains.',
+ 'named_entities': {'100-day',
+                    '17.08%',
+                    '20-day',
+                    '200-day',
+                    '21.4%',
+                    '3.23%',
+                    '391.34%',
+                    '5-day',
+                    '50-day',
+                    'Buy',
+                    'Ceinsys Tech',
+                    "Ceinsys Tech's",
+                    'December 5th, 2024',
+                    'Sensex',
+                    'Sensex\n\nCeinsys Tech',
+                    'Today',
+                    'the last 5 consecutive days',
+                    'the last year'},
+ 'publication_date': 'N/A',
+ 'sentiment': {'main_text_sentiment': {'polarity': 0.2305757575757576,
+                                       'subjectivity': 0.5351818181818182},
+               'summary_sentiment': {'polarity': 0.19256410256410256,
+                                     'subjectivity': 0.48435897435897435}},
+ 'summary': 'Ceinsys Tech, a smallcap IT software company, has been gaining '
+            'attention in the stock market with its recent performance. On '
+            'December 5th, 2024, the stock hit an all-time high of Rs.1796, '
+            'outperforming the sector by 3.23% and consistently trading above '
+            'its moving averages. With a remarkable 391.34% performance in the '
+            'last year, Ceinsys Tech shows strong growth potential in the IT '
+            'industry.',
+ 'top_image': 'https://i.marketsmojo.com/newsimg/2024/12/CeinsysTech_priceRelatedfactors_232363.png'}
+Processing News:  50%|████████████████████████████████████████████████████████████                                                            | 3/6 [00:24<00:24,  8.17s/item]2024-12-15 16:24:49,650 - INFO - Decoded URL: https://www.cnbctv18.com/market/stocks/ceinsys-tech-shares-jump-to-a-10-upper-circuit-after-maharashtra-government-order-19518083.htm
+{'link': 'https://www.cnbctv18.com/market/stocks/ceinsys-tech-shares-jump-to-a-10-upper-circuit-after-maharashtra-government-order-19518083.htm',
+ 'published': 'Mon, 02 Dec 2024 08:00:00 GMT',
+ 'summary': 'Ceinsys Tech shares jump to a 10% upper circuit after Maharashtra '
+            'Government order',
+ 'title': 'Ceinsys Tech shares jump to a 10% upper circuit after Maharashtra '
+          'Government order - CNBCTV18'}
+2024-12-15 16:24:49,652 - INFO - Processing URL: https://www.cnbctv18.com/market/stocks/ceinsys-tech-shares-jump-to-a-10-upper-circuit-after-maharashtra-government-order-19518083.htm
+2024-12-15 16:24:50,023 - INFO - Successfully extracted data from: https://www.cnbctv18.com/market/stocks/ceinsys-tech-shares-jump-to-a-10-upper-circuit-after-maharashtra-government-order-19518083.htm
+{'authors': [],
+ 'headline': 'Ceinsys Tech shares jump to a 10% upper circuit after '
+             'Maharashtra Government order',
+ 'keywords': ['sanitation',
+              'order',
+              'work',
+              'ceinsys',
+              'maharashtra',
+              'shares',
+              'letter',
+              'swsm',
+              'sambhaji',
+              'tech',
+              'circuit',
+              'water',
+              'upper',
+              'jump',
+              'allocation'],
+ 'main_text': '₹\n'
+              '\n'
+              'Ceinsys Tech Ltd on Monday (December 2) said it has received a '
+              'work allocation letter from the State Water and Sanitation '
+              'Mission (SWSM), Water Supply and Sanitation Department, '
+              'Government of Maharashtra, for projects worth ₹330 crore."...we '
+              'are pleased to further inform you that the Company has now '
+              'received a work allocation letter from SWSM, WSSD, Government '
+              'of Maharashtra to initiate work in Nashik, Amaravati & '
+              'Chatrapati Sambhaji Nagar region in Maharashtra covering 18 '
+              'districts amounting to330.00 crore (Rupees Three Hundred and '
+              'Thirty Crores Only)," Ceinsys Tech said in a regulatory '
+              'filingThis allocation follows the earlier Letter of Award '
+              'announced on October 9, 2024, for ₹331.61 crore under the Jal '
+              "Jeevan Mission's Phase II.The new assignment involves acting as "
+              'System Integrators (SIs) for IoT deployment, encompassing '
+              'design, implementation, and maintenance with a centralized IoT '
+              'platform. The project will focus on Nashik, Amravati, and '
+              'Chhatrapati Sambhaji Nagar regions, covering 18 districts in '
+              'Maharashtra.The tech-driven firm specialises in providing '
+              'geospatial, enterprise and engineering solutions to customers '
+              'in private and government enterprises across the utility, '
+              'infrastructure, natural resources, and manufacturing sectors. '
+              'Ceinsys has a global presence with offices in India, the USA, '
+              'the UK, Singapore and Germany.Shares of Ceinsys Tech Ltd ended '
+              'at ₹1,639.95, up by ₹141.00, or 9.41% on the BSE.',
+ 'named_entities': {'1,639.95',
+                    '141.00',
+                    '18',
+                    '330',
+                    '331.61',
+                    '9.41%',
+                    'Amravati',
+                    'BSE',
+                    'Ceinsys',
+                    'Ceinsys Tech',
+                    'Ceinsys Tech Ltd',
+                    'Chhatrapati Sambhaji Nagar',
+                    'Company',
+                    'December 2',
+                    'Germany',
+                    'Government of Maharashtra',
+                    'India',
+                    'IoT',
+                    'Maharashtra',
+                    'Monday',
+                    'Nashik',
+                    'Nashik, Amaravati & Chatrapati',
+                    'October 9, 2024',
+                    'SWSM',
+                    'Sambhaji Nagar',
+                    'Sanitation Department, Government of Maharashtra',
+                    'Singapore',
+                    'System Integrators',
+                    'Three Hundred and',
+                    'UK',
+                    'USA',
+                    'WSSD',
+                    'Water Supply',
+                    "the Jal Jeevan Mission's",
+                    'the State Water and Sanitation Mission (SWSM',
+                    '₹'},
+ 'publication_date': datetime.datetime(2024, 12, 2, 15, 58, 50, tzinfo=tzoffset(None, 19800)),
+ 'sentiment': {'main_text_sentiment': {'polarity': 0.07603305785123966,
+                                       'subjectivity': 0.4299586776859505},
+               'summary_sentiment': {'polarity': 0.07603305785123966,
+                                     'subjectivity': 0.4299586776859505}},
+ 'summary': 'Ceinsys Tech Ltd on Monday (December 2) said it has received a '
+            'work allocation letter from the State Water and Sanitation '
+            'Mission (SWSM), Water Supply and Sanitation Department, '
+            'Government of Maharashtra, for projects worth ₹330 crore. "...we '
+            'are pleased to further inform you that the Company has now '
+            'received a work allocation letter from SWSM, WSSD, Government of '
+            'Maharashtra to initiate work in Nashik, Amaravati & Chatrapati '
+            'Sambhaji Nagar region in Maharashtra covering 18 districts '
+            'amounting to330.00 crore (Rupees Three Hundred and Thirty Crores '
+            'Only)," Ceinsys Tech said in a regulatory filingThis allocation '
+            'follows the earlier Letter of Award announced on October 9, 2024, '
+            "for ₹331.61 crore under the Jal Jeevan Mission's Phase II.The new "
+            'assignment involves acting as System Integrators (SIs) for IoT '
+            'deployment, encompassing design, implementation, and maintenance '
+            'with a centralized IoT platform. The project will focus on '
+            'Nashik, Amravati, and Chhatrapati Sambhaji Nagar regions, '
+            'covering 18 districts in Maharashtra.The tech-driven firm '
+            'specialises in providing geospatial, enterprise and engineering '
+            'solutions to customers in private and government enterprises '
+            'across the utility, infrastructure, natural resources, and '
+            'manufacturing sectors.',
+ 'top_image': 'https://images.cnbctv18.com/uploads/2024/12/ceinsys-tech-2024-12-832d2e11123f5feaf42261b881a8c4ea.jpeg?im=FitAndFill,width=500,height=300'}
+Processing News:  67%|████████████████████████████████████████████████████████████████████████████████                                        | 4/6 [00:32<00:15,  7.94s/item]2024-12-15 16:24:57,766 - INFO - Decoded URL: https://www.marketsmojo.com/news/stocks-in-action/ceinsys-techs-stock-reaches-new-high-outperforms-sector-and-sensex-3-308097
+{'link': 'https://www.marketsmojo.com/news/stocks-in-action/ceinsys-techs-stock-reaches-new-high-outperforms-sector-and-sensex-3-308097',
+ 'published': 'Mon, 02 Dec 2024 08:00:00 GMT',
+ 'summary': "Ceinsys Tech's Stock Reaches New High, Outperforms Sector and "
+            'Sensex',
+ 'title': "Ceinsys Tech's Stock Reaches New High, Outperforms Sector and "
+          'Sensex - MarketsMojo'}
+2024-12-15 16:24:57,767 - INFO - Processing URL: https://www.marketsmojo.com/news/stocks-in-action/ceinsys-techs-stock-reaches-new-high-outperforms-sector-and-sensex-3-308097
+2024-12-15 16:24:58,381 - INFO - Successfully extracted data from: https://www.marketsmojo.com/news/stocks-in-action/ceinsys-techs-stock-reaches-new-high-outperforms-sector-and-sensex-3-308097
+{'authors': [],
+ 'headline': "Ceinsys Tech's Stock Reaches New High, Outperforms Sector and "
+             'Sensex',
+ 'keywords': ['sensex',
+              'techs',
+              'stock',
+              'reaches',
+              'surge',
+              'strong',
+              'software',
+              'ceinsys',
+              'outperforms',
+              'company',
+              'high',
+              'tech',
+              'performance',
+              'sector'],
+ 'main_text': "Ceinsys Tech's Stock Reaches New High, Outperforms Sector and "
+              'Sensex\n'
+              '\n'
+              'Ceinsys Tech , a smallcap IT software company, has seen a surge '
+              'in its stock price, reaching a new 52-week high of Rs. 1589 on '
+              'December 2nd, 2024. The company has outperformed its sector by '
+              '3.81% and has been on a consecutive gain streak for the past 2 '
+              'days. Its stock is currently trading higher than its moving '
+              'averages and has shown an impressive 1-year performance of '
+              '328.42%, showcasing its strong growth potential.\n'
+              '\n'
+              '\n'
+              '\n'
+              '\n'
+              '\n'
+              'Ceinsys Tech, a smallcap IT software company, has been making '
+              'waves in the stock market with its recent surge in stock price. '
+              "On December 2nd, 2024, the company's stock reached a new "
+              '52-week high of Rs. 1589, which is also an all-time high for '
+              'the company. This impressive performance has caught the '
+              'attention of investors and analysts alike.\n'
+              '\n'
+              '\n'
+              '\n'
+              'MarketsMOJO, a leading stock market analysis and recommendation '
+              "platform, has given a 'Buy' call for Ceinsys Tech's stock. This "
+              'further adds to the positive sentiment surrounding the '
+              "company's stock.\n"
+              '\n'
+              '\n'
+              '\n'
+              'In terms of performance, Ceinsys Tech has outperformed its '
+              'sector by 3.81% and has been on a consecutive gain streak for '
+              'the past 2 days, with a 5.47% increase in returns. The stock '
+              'also touched an intraday high of Rs. 1589, a 6.01% increase '
+              "from the previous day's closing.\n"
+              '\n'
+              '\n'
+              '\n'
+              "Moreover, Ceinsys Tech's stock is currently trading higher than "
+              'its 5-day, 20-day, 50-day, 100-day, and 200-day moving '
+              'averages, indicating a strong upward trend.\n'
+              '\n'
+              '\n'
+              '\n'
+              "In comparison to the Sensex, Ceinsys Tech's stock has shown an "
+              'impressive 1-year performance of 328.42%, while the Sensex has '
+              'only grown by 18.12% in the same period. This showcases the '
+              "company's strong growth potential and its ability to outperform "
+              'the market.\n'
+              '\n'
+              '\n'
+              '\n'
+              'With its recent surge in stock price and positive performance, '
+              'Ceinsys Tech is definitely a company to watch out for in the IT '
+              'software industry. Investors can consider adding this smallcap '
+              'company to their portfolio for potential long-term gains.',
+ 'named_entities': {'1-year',
+                    '100-day',
+                    '1589',
+                    '18.12%',
+                    '20-day',
+                    '200-day',
+                    '3.81%',
+                    '328.42%',
+                    '5-day',
+                    '5.47%',
+                    '50-day',
+                    '52-week',
+                    '6.01%',
+                    'Buy',
+                    'Ceinsys Tech',
+                    "Ceinsys Tech's",
+                    'December 2nd, 2024',
+                    'Sensex',
+                    'Sensex\n\nCeinsys Tech',
+                    'the past 2 days',
+                    "the previous day's",
+                    'the same period'},
+ 'publication_date': 'N/A',
+ 'sentiment': {'main_text_sentiment': {'polarity': 0.17049910873440288,
+                                       'subjectivity': 0.5425356506238859},
+               'summary_sentiment': {'polarity': 0.20691460055096422,
+                                     'subjectivity': 0.5452203856749311}},
+ 'summary': 'Ceinsys Tech , a smallcap IT software company, has seen a surge '
+            'in its stock price, reaching a new 52-week high of Rs. Its stock '
+            'is currently trading higher than its moving averages and has '
+            'shown an impressive 1-year performance of 328.42%, showcasing its '
+            'strong growth potential. In terms of performance, Ceinsys Tech '
+            'has outperformed its sector by 3.81% and has been on a '
+            'consecutive gain streak for the past 2 days, with a 5.47% '
+            'increase in returns.',
+ 'top_image': 'https://i.marketsmojo.com/newsimg/2024/12/CeinsysTech_priceRelatedfactors_231051.png'}
+Processing News:  83%|████████████████████████████████████████████████████████████████████████████████████████████████████                    | 5/6 [00:40<00:08,  8.09s/item]2024-12-15 16:25:06,073 - INFO - Decoded URL: https://www.businessupturn.com/business/corporates/ceinsys-tech-secures-work-allocation-for-rs-330-crore-jal-jeevan-mission-projects-in-maharashtra/
+{'link': 'https://www.businessupturn.com/business/corporates/ceinsys-tech-secures-work-allocation-for-rs-330-crore-jal-jeevan-mission-projects-in-maharashtra/',
+ 'published': 'Mon, 02 Dec 2024 08:00:00 GMT',
+ 'summary': 'Ceinsys Tech secures work allocation for Rs. 330 crore Jal Jeevan '
+            'Mission Projects in Maharashtra',
+ 'title': 'Ceinsys Tech secures work allocation for Rs. 330 crore Jal Jeevan '
+          'Mission Projects in Maharashtra - Business Upturn'}
+2024-12-15 16:25:06,082 - INFO - Processing URL: https://www.businessupturn.com/business/corporates/ceinsys-tech-secures-work-allocation-for-rs-330-crore-jal-jeevan-mission-projects-in-maharashtra/
+2024-12-15 16:25:07,611 - INFO - Successfully extracted data from: https://www.businessupturn.com/business/corporates/ceinsys-tech-secures-work-allocation-for-rs-330-crore-jal-jeevan-mission-projects-in-maharashtra/
+{'authors': ['Matrika Shukla',
+             'Aditya Bhagchandani',
+             'Aman Shukla',
+             'Adnan Nasir'],
+ 'headline': 'Ceinsys Tech secures work allocation for Rs. 330 crore Jal '
+             'Jeevan Mission Projects in Maharashtra',
+ 'keywords': ['jal',
+              'project',
+              'secures',
+              'jeevan',
+              'maharashtra',
+              'crore',
+              'supply',
+              'valued',
+              'projects',
+              'solutions',
+              'tech',
+              'rs',
+              'mission',
+              'water',
+              'work',
+              'iot'],
+ 'main_text': 'Ceinsys Tech Ltd., a leading technology and engineering '
+              'solutions provider, announced it has received a work allocation '
+              'letter from the State Water and Sanitation Mission (SWSM), '
+              'Water Supply and Sanitation Department (WSSD), Government of '
+              'Maharashtra, to commence Phase II of the Jal Jeevan Mission. '
+              'The project involves the implementation of Internet of Things '
+              '(IoT) solutions across 18 districts in Nashik, Amravati, and '
+              'Chhatrapati Sambhaji Nagar regions.\n'
+              '\n'
+              'This allocation, valued at Rs. 330 Crores, follows the Letter '
+              'of Award (LoA) received earlier on October 9, 2024, for an '
+              'overall project valued at Rs. 331.61 Crores. Ceinsys Tech will '
+              'undertake the deployment of a centralized IoT platform along '
+              'with design, implementation, and maintenance services to '
+              'enhance water supply systems under the Jal Jeevan Mission.\n'
+              '\n'
+              'Advertisement\n'
+              '\n'
+              'The project aims to revolutionize water supply management by '
+              'leveraging advanced IoT technologies, ensuring efficient and '
+              'real-time monitoring of water resources. This initiative is '
+              'part of the government’s broader mission to provide clean and '
+              'sustainable water access to rural households in Maharashtra.\n'
+              '\n'
+              'Ceinsys Tech expressed its commitment to executing the project '
+              'efficiently and contributing to the success of the Jal Jeevan '
+              'Mission. “We are honored to partner with the Government of '
+              'Maharashtra in implementing innovative IoT solutions to achieve '
+              'water sustainability and accessibility,” said the company’s '
+              'spokesperson.',
+ 'named_entities': {'18',
+                    '330',
+                    '331.61',
+                    'Amravati',
+                    'Ceinsys Tech',
+                    'Ceinsys Tech Ltd.',
+                    'Chhatrapati Sambhaji Nagar',
+                    'Government of Maharashtra',
+                    'IoT',
+                    'Maharashtra',
+                    'Nashik',
+                    'October 9, 2024',
+                    'Phase II',
+                    'Sanitation Department',
+                    'WSSD',
+                    'Water Supply',
+                    'the Government of Maharashtra',
+                    'the Jal Jeevan Mission',
+                    'the Jal Jeevan Mission.',
+                    'the Letter of Award (LoA',
+                    'the State Water and Sanitation Mission (SWSM'},
+ 'publication_date': 'N/A',
+ 'sentiment': {'main_text_sentiment': {'polarity': 0.22380952380952382,
+                                       'subjectivity': 0.4},
+               'summary_sentiment': {'polarity': 0.2, 'subjectivity': 0.375}},
+ 'summary': 'Ceinsys Tech Ltd., a leading technology and engineering solutions '
+            'provider, announced it has received a work allocation letter from '
+            'the State Water and Sanitation Mission (SWSM), Water Supply and '
+            'Sanitation Department (WSSD), Government of Maharashtra, to '
+            'commence Phase II of the Jal Jeevan Mission. The project involves '
+            'the implementation of Internet of Things (IoT) solutions across '
+            '18 districts in Nashik, Amravati, and Chhatrapati Sambhaji Nagar '
+            'regions. 330 Crores, follows the Letter of Award (LoA) received '
+            'earlier on October 9, 2024, for an overall project valued at Rs.',
+ 'top_image': 'https://images.businessupturn.com/wp-content/uploads/2024/10/Untitled-design-91-1024x576.jpg'}
+Processing News: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 6/6 [00:50<00:00,  8.34s/item]
